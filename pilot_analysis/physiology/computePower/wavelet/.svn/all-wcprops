@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet
+END
+getphasepow.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/getphasepow.m
+END
+getbroad.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/getbroad.m
+END
+energyvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/energyvec.m
+END
+removebadevents.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/removebadevents.m
+END
+energy.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/energy.m
+END
+multiphasevec2.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/multiphasevec2.m
+END
+multiphasevec3.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/multiphasevec3.m
+END
+phasevec.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/phasevec.m
+END
+multienergyvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/multienergyvec.m
+END
+morlet.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/morlet.m
+END
+getavgpow.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/getavgpow.m
+END
+zscorebysession.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/zscorebysession.m
+END
+ztrans_pow.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/ztrans_pow.m
+END
+getphasepow2.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/getphasepow2.m
+END
+multiphasevec.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/multiphasevec.m
+END
+fconv.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/fconv.m
+END
+getphasedisp.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/wavelet/getphasedisp.m
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hnl/!svn/ver/8530/people/consolidationProject/code/physiology/computePower
+END
+consolidation_setParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hnl/!svn/ver/8628/people/consolidationProject/code/physiology/computePower/consolidation_setParams.m
+END
+get_eeg_consolidation.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hnl/!svn/ver/8530/people/consolidationProject/code/physiology/computePower/get_eeg_consolidation.m
+END
+GetRateAndFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hnl/!svn/ver/8446/people/consolidationProject/code/physiology/computePower/GetRateAndFormat.m
+END
+cleanEEGevents.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/cleanEEGevents.m
+END
+clean_electrodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/clean_electrodes.m
+END
+multiphasevec3.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/multiphasevec3.m
+END
+compute_power_event_fun.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/compute_power_event_fun.m
+END
+eegparams.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/hnl/!svn/ver/8446/people/consolidationProject/code/physiology/computePower/eegparams.m
+END
+compute_power_event_fun_noMir.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hnl/!svn/ver/8628/people/consolidationProject/code/physiology/computePower/compute_power_event_fun_noMir.m
+END
+consolidation_computePower.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hnl/!svn/ver/8708/people/consolidationProject/code/physiology/computePower/consolidation_computePower.m
+END
+getPower_consolidation.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/getPower_consolidation.m
+END
+windowed_average_with_freq.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/windowed_average_with_freq.m
+END
+gete_ms_mod.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/hnl/!svn/ver/8446/people/consolidationProject/code/physiology/computePower/gete_ms_mod.m
+END
+consolidation_setParams_ripples.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hnl/!svn/ver/8476/people/consolidationProject/code/physiology/computePower/consolidation_setParams_ripples.m
+END
+get_eeg_consolidation_ripples.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hnl/!svn/ver/8476/people/consolidationProject/code/physiology/computePower/get_eeg_consolidation_ripples.m
+END

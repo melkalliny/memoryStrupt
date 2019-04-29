@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hnl/!svn/ver/8530/people/consolidationProject/code/physiology/analyzePower
+END
+consolidation_calculateSimilarity_LowAndHigh_biowulf.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hnl/!svn/ver/8708/people/consolidationProject/code/physiology/analyzePower/consolidation_calculateSimilarity_LowAndHigh_biowulf.m
+END
+consolidation_preprocessLowAndHigh_allTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hnl/!svn/ver/8708/people/consolidationProject/code/physiology/analyzePower/consolidation_preprocessLowAndHigh_allTime.m
+END
+consolidation_preprocessPower.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hnl/!svn/ver/8476/people/consolidationProject/code/physiology/analyzePower/consolidation_preprocessPower.m
+END
+consolidation_calculateSimilarity.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hnl/!svn/ver/8498/people/consolidationProject/code/physiology/analyzePower/consolidation_calculateSimilarity.m
+END
+consolidation_calculateSimilarity_LowAndHigh.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hnl/!svn/ver/8628/people/consolidationProject/code/physiology/analyzePower/consolidation_calculateSimilarity_LowAndHigh.m
+END
+consolidation_visualizeRipples.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hnl/!svn/ver/8476/people/consolidationProject/code/physiology/analyzePower/consolidation_visualizeRipples.m
+END
+consolidation_visualizePower_allFrequencies.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hnl/!svn/ver/8498/people/consolidationProject/code/physiology/analyzePower/consolidation_visualizePower_allFrequencies.m
+END
+plotGroupConsistencyCorrelations.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hnl/!svn/ver/8498/people/consolidationProject/code/physiology/analyzePower/plotGroupConsistencyCorrelations.m
+END
+consolidation_calculateSimilarity_retrieval.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hnl/!svn/ver/8510/people/consolidationProject/code/physiology/analyzePower/consolidation_calculateSimilarity_retrieval.m
+END
+consolidation_preprocessRipples.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hnl/!svn/ver/8476/people/consolidationProject/code/physiology/analyzePower/consolidation_preprocessRipples.m
+END
+consolidation_visualizePower_perElectrode.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hnl/!svn/ver/8476/people/consolidationProject/code/physiology/analyzePower/consolidation_visualizePower_perElectrode.m
+END
+consolidation_preprocessPowerAllFrequencies.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hnl/!svn/ver/8510/people/consolidationProject/code/physiology/analyzePower/consolidation_preprocessPowerAllFrequencies.m
+END
+plotAggregateCorrelations.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hnl/!svn/ver/8582/people/consolidationProject/code/physiology/analyzePower/plotAggregateCorrelations.m
+END
+consolidation_extractSimilarity_LowAndHigh.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hnl/!svn/ver/8582/people/consolidationProject/code/physiology/analyzePower/consolidation_extractSimilarity_LowAndHigh.m
+END
+consolidation_visualizePower.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hnl/!svn/ver/8498/people/consolidationProject/code/physiology/analyzePower/consolidation_visualizePower.m
+END
+consolidation_preprocessLowAndHigh.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hnl/!svn/ver/8628/people/consolidationProject/code/physiology/analyzePower/consolidation_preprocessLowAndHigh.m
+END

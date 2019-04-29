@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter
+END
+tapers_200.mat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/tapers_200.mat
+END
+ph.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/ph.m
+END
+gethilbertphase.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/gethilbertphase.m
+END
+notchfilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/notchfilt.m
+END
+gethilbertphase2.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/gethilbertphase2.m
+END
+buttfilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/buttfilt.m
+END
+sineFitNotch.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/sineFitNotch.m
+END
+filtfilt2.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/filtfilt2.m
+END
+tapers_256.mat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hnl/!svn/ver/8437/people/consolidationProject/code/physiology/computePower/filter/tapers_256.mat
+END
