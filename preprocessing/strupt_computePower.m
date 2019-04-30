@@ -1,6 +1,6 @@
 
 
-pars = strupt_setParams();
+pars = consolidation_setParams();
 expType = 1;
 
 subjects = [71];
@@ -24,9 +24,9 @@ for windowSize=1:3
         pars.points_per_slide = 200;   %prevent bug propagation
     end
     
-    pars.dirWriteOut = sprintf('/Volumes/FRNU_SVN/consolidation_SVN/consolidationProject/intermediates/power_LowAndHigh_monopolar_window%d/',windowSize);
+    pars.dirWriteOut = sprintf('%s/%d/',pars.dirWriteOut,windowSize);
     
-    for n = [1:6]
+    for n = 1
         
         tic;
         subj = subjectNames{n};
@@ -47,30 +47,12 @@ for windowSize=1:3
         freqs = pars.freqs;
         
         % load events
-        load(sprintf('/Volumes/Shares/FRNU/dataWorking/consolidationProject/data/%s/behavioral/palRam/events.mat',subj));
+        load(sprintf('%s/%s/behavioral/memoryRepeat/events.mat',pars.froot,subj));
+        
         [events(find(strcmp({events.type},'STUDY_PAIR'))).type] = deal('STUDY_PAIR_START');
         [events(find(strcmp({events.type},'TEST_PROBE'))).type] = deal('PROBE_START');
         evsPull = events((union(find(strcmp({events.type},'STUDY_PAIR_START')),find(strcmp({events.type},'PROBE_START')))));
-        
-        % add events centered around reaction time
-        evsPull_plusRT = [];
-        for ev=1:length(evsPull)
-            evsPull_plusRT = cat(1,evsPull_plusRT,evsPull(ev));
-            if isnumeric(evsPull(ev).RT) && strcmpi(evsPull(ev).type,'PROBE_START')
-                newElem = evsPull(ev);
-                newElem.eegoffset = evsPull(ev).eegoffset + evsPull(ev).RT;
-                newElem.type = 'RESPONSE';
-                evsPull_plusRT = cat(1,evsPull_plusRT,newElem);
-            elseif ~isnumeric(evsPull(ev).RT) && strcmpi(evsPull(ev).type,'PROBE_START')
-                fprintf('\nno annotated RT - adding event for RT here\n')
-                newElem = evsPull(ev);
-                newElem.eegoffset = evsPull(ev).eegoffset + 0;
-                evsPull_plusRT = cat(1,evsPull_plusRT,newElem);
-                %keyboard
-            end
-            
-        end
-        evsPull = evsPull_plusRT;
+    
         num_events = length(evsPull);
         
         parfor e = 1:num_events
